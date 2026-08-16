@@ -1,21 +1,22 @@
-# Hey
+# Hey, I'm Callum
 
-I'm a full stack developer working Welcome to my profilewith various technologies throughout the typical software development lifecycle; e.g. ruby on rails, vue js framework, containerisation (docker, kubernetes), ci/cd pipelines via semaphore / github actions.
-![Picasso](picasso.png)
-I'm always striving to improve and learn new things. If you need to contact me, I'm on discord > curious_coder
+Full-stack developer working across the SDLC — Ruby on Rails, Vue, containerisation (Docker/Kubernetes), and CI/CD (Semaphore, GitHub Actions).
 
+Always shipping something new, always learning the next thing.
 
+**Reach me:** Discord `curious_coder`
 
-![Curious Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-curious-coder&show_icons=true&theme=gruvbox)
+<br>
 
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Ruby on Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<br />
+<br>
 
+![Curious Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-curious-coder&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true)

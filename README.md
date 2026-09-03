@@ -1,22 +1,28 @@
-# Hey, I'm Callum
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f4c3a,50:1a6e4c,100:2aa198&text=Callum%20McLennan&fontColor=fff&fontSize=32&reversal=false" alt="Header"/>
 
-Full-stack developer working across the SDLC — Ruby on Rails, Vue, containerisation (Docker/Kubernetes), and CI/CD (Semaphore, GitHub Actions).
+<p align="center">
+  <img alt="Profile statistics card" src="output.gif"/>
+</p>
 
-Always shipping something new, always learning the next thing.
+```
+$ whoami
+Callum McLennan — full-stack developer
+$ cat stack.txt
+Rails · Vue · Postgres · DynamoDB · Docker · CI/CD (Semaphore, GitHub Actions)
+Also comfortable in Python and Linux.
+```
 
-**Reach me:** Discord `curious_coder`
+**Featured projects**
 
-<br>
+- [`mri-deep-learning`](https://github.com/a-curious-coder/mri-deep-learning) — deep learning applied to MRI data.
+- [`herdr-plugin-manager`](https://github.com/a-curious-coder/herdr-plugin-manager) — install, run, and manage herdr plugins from a single popup pane.
+- [`herdr-iris`](https://github.com/a-curious-coder/herdr-iris) — fuzzy cheatsheet of AI agent skills, scoped to the pane's detected agent.
 
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a-curious-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-curious-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+</p>
 
-<br>
+**Contact:** [cmclennan.dev](https://cmclennan.dev) · Discord `curious_coder`
 
-![Curious Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-curious-coder&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2aa198,50:1a6e4c,100:0f4c3a&reversal=false&section=footer" alt="Footer"/>
